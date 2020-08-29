@@ -7,13 +7,7 @@ from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
 PM_IMG = "https://telegra.ph/file/1145bcc6917bf1947649e.jpg"
-pm_caption = "`FRIDAY IS:` **BOSS I'M HERE.....ALWAYS FOR YOU😊😎😎
-I PROMISE.....I'LL NEVER LEAVE YOU 🔥🔥🔥🙏🙏🙏
-ALWAYS WORKS FOR YOU😊😊....
-💪💪Haters gonna hate 😎😎
-🖕🖕F**k to haters 💪💪 
-MY OWNER :- AMIT JAAT 
-I love my haters bcz they famous me 😎😎🔥🔥**\n\n"
+pm_caption = "`FRIDAY IS:` **ONLINE**\n\n"
 pm_caption += "**SYSTEM STATUS**\n"
 pm_caption += "`TELETHON VERSION:` **6.0.9**\n`Python:` **3.7.4**\n"
 pm_caption += "`DATABASE STATUS:` **Functional**\n"
